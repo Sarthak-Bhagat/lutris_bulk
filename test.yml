@@ -1,0 +1,9 @@
+game:
+  name: "Astrea Six-Sided Oracles"
+  slug: "astrea-six-sided-oracles"
+  game_slug: "astrea-six-sided-oracles"
+  runner: "wine"
+  exe: "/home/dez/Games/HDD/Astrea Six-Sided Oracles/Astrea.exe"
+  working_dir: "/home/dez/Games/HDD/Astrea Six-Sided Oracles/"
+  wine:
+    version: "latest"

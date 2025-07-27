@@ -1,0 +1,41 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 0,
+            "game_id": 0,
+            "game_slug": "astrea-six-sided-oracles",
+            "name": "Astrea Six-Sided Oracles",
+            "year": null,
+            "user": "Dez",
+            "runner": "wine",
+            "slug": "astrea-six-sided-oracles",
+            "version": "latest",
+            "description": null,
+            "notes": "",
+            "credits": "",
+            "created_at": "2025-02-10T07:43:00Z",
+            "updated_at": "2025-02-10T07:43:00Z",
+            "draft": false,
+            "published": true,
+            "rating": "",
+            "script": {
+                "game": {
+                    "arch": "win64",
+                    "exe": "/home/dez/Games/HDD//Astrea Six-Sided Oracles/Astrea.exe",
+                    "prefix": "/mnt/Secondary/Games/Astrea Six-Sided Oracles/.wine"
+                },
+                "system": {
+                    "env": {
+                        "__GL_SHADER_DISK_CACHE": 1,
+                        "__GL_SHADER_DISK_CACHE_PATH": "/mnt/Secondary/Games/Astrea Six-Sided Oracles"
+                    },
+                    "require-binaries": "wget"
+                }
+            },
+            "content": ""
+        }
+    ]
+}
